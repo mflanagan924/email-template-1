@@ -9,14 +9,10 @@ Practice designing and coding responsive email templates using HTML and CSS. Dem
 
 ## Demo
 
-View project demo at [https://mflanagan924.github.io/planting-calendar/](https://mflanagan924.github.io/planting-calendar/).
+View project demo at [https://mflanagan924.github.io/email-template-1/](https://mflanagan924.github.io/email-template-1/).
 
 ## Preview
 
-Preview of what a search looks like.
+Preview
 
-<img src="images/preview v2.PNG"></img>
-
-## Instructions
-
-In the search bar type in what fruit or vegetable you want to plant and click search.
+<img src=""></img>
