@@ -6,6 +6,7 @@ Practice designing and coding responsive email templates using HTML and CSS. Dem
 ## Built With
 * Html
 * CSS
+* Font Awesome
 
 ## Demo
 
