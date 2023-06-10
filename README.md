@@ -15,4 +15,4 @@ View project demo at [https://mflanagan924.github.io/email-template-1/](https://
 
 Preview
 
-<img src=""></img>
+<img src="https://raw.githubusercontent.com/mflanagan924/email-template-1/main/img/preview%202.PNG"></img>
