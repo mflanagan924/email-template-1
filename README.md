@@ -13,6 +13,11 @@ View project demo at [https://mflanagan924.github.io/email-template-1/](https://
 
 ## Preview
 
-Preview
+Top of email
 
 <img src="https://raw.githubusercontent.com/mflanagan924/email-template-1/main/img/preview%202.PNG"></img>
+
+Bottom of email
+
+<img src="https://raw.githubusercontent.com/mflanagan924/email-template-1/main/img/preview%203.PNG"></img>
+
