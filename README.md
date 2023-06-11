@@ -1,4 +1,4 @@
-# Email template #1
+# Email template #2
 Practice designing and coding responsive email templates using HTML and CSS. Demonstrates my understanding of email coding best practices and compatibility across different email clients.
 
 ---
@@ -16,9 +16,9 @@ View project demo at [https://mflanagan924.github.io/email-template-1/](https://
 
 Top of email
 
-<img src="https://raw.githubusercontent.com/mflanagan924/email-template-1/main/img/preview%202.PNG"></img>
+<img src="img/preview 1.PNG"></img>
 
 Bottom of email
 
-<img src="https://raw.githubusercontent.com/mflanagan924/email-template-1/main/img/preview%203.PNG"></img>
+<img src="img/preview 2.PNG"></img>
 
