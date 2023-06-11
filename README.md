@@ -16,9 +16,9 @@ View project demo at [https://mflanagan924.github.io/email-template-1/](https://
 
 Top of email
 
-<img src="img/preview 1.PNG"></img>
+<img src="img/preview 2.PNG"></img>
 
 Bottom of email
 
-<img src="img/preview 2.PNG"></img>
+<img src="img/preview 3.PNG"></img>
 
